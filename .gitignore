@@ -1,0 +1,7 @@
+src
+*.o
+*.d
+nbproject
+test/t_prosplign_intron_scorer
+prosplign_intron_scorer
+
